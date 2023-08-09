@@ -13,7 +13,7 @@
 #  📝 Descrição do projeto
 
 <p>
-No nosso dia a dia as vezes temos tantas tarefas a fazer, que é necessário uma boa organização do nosso tempo para conseguir-mos fazer tudo.
+No nosso dia a dia as vezes temos tantas tarefas a fazer, que é necessário uma boa organização do nosso tempo para conseguirmos fazer tudo.
 Para isso foi criado este sistema. Um "CRUD" feito em PHP e MySQL, para listagem de tarefas de uma forma super organizada para aumentar sua  produtividade no dia a dia
 </p>
 

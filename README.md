@@ -2,11 +2,11 @@
 
 <img src="img/menu.png">
 
-<img src="img/sucessso.png">
+<img src="img/sucesso.png">
 
 <img src="img/todasTarefas.png">
 
-<img src="img/atualziar.png">
+<img src="img/atualizar">
 
 <img src="img/pendentes.png">
 

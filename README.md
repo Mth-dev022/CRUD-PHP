@@ -53,10 +53,10 @@ Este exemplo é um ponto de partida básico. Dependendo das suas necessidades, v
 ## Funcionalidades
 
 :heavy_check_mark: Cadastro de tarefas <br>
-:heavy_check_mark: Aba destinada a visualização de todas as tarefas, para melhor controle do usuario <br>
-:heavy_check_mark: Edição de tarefas já cadastradas <br>
-:heavy_check_mark: Botão para marcar tarefa como realizada <br>
-:heavy_check_mark: Botão para excluir tarefa  <br>
+:heavy_check_mark: Aba destinada a visualização de todas as tarefas, para melhor controle do usuário <br> <br>
+:heavy_check_mark: Edição de tarefas já cadastradas <br> <br>
+:heavy_check_mark: Botão para marcar tarefa como realizada <br> <br>
+:heavy_check_mark: Botão para excluir tarefa  <br> <br>
 
 ## 🚀 Tecnologias
 

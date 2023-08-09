@@ -14,7 +14,7 @@
 
 <p>
 No nosso dia a dia as vezes temos tantas tarefas a fazer, que é necessário uma boa organização do nosso tempo para conseguirmos fazer tudo.
-Para isso foi criado este sistema. Um "CRUD" feito em PHP e MySQL, para listagem de tarefas de uma forma super organizada para aumentar sua  produtividade no dia a dia
+Para isso foi criado este sistema. Um "CRUD" feito em PHP e MySQL, para listagem de tarefas de uma forma super organizada para aumentar sua  produtividade no dia a dia.
 </p>
 
 ## Iniciando/Configurando banco de dados
@@ -52,11 +52,11 @@ Este exemplo é um ponto de partida básico. Dependendo das suas necessidades, v
 
 ## Funcionalidades
 
-:heavy_check_mark: Cadastro de tarefas
-:heavy_check_mark: Aba destinada a visualização de todas as tarefas, para melhor controle do usuario
-:heavy_check_mark: Edição de tarefas já cadastradas
-:heavy_check_mark: Botão para marcar tarefa como realizada
-:heavy_check_mark: Botão para excluir tarefa 
+:heavy_check_mark: Cadastro de tarefas <br>
+:heavy_check_mark: Aba destinada a visualização de todas as tarefas, para melhor controle do usuario <br>
+:heavy_check_mark: Edição de tarefas já cadastradas <br>
+:heavy_check_mark: Botão para marcar tarefa como realizada <br>
+:heavy_check_mark: Botão para excluir tarefa  <br>
 
 ## 🚀 Tecnologias
 

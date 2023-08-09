@@ -6,7 +6,7 @@
 
 <img src="img/todasTarefas.png">
 
-<img src="img/atualizar">
+<img src="img/atualizar.png">
 
 <img src="img/pendentes.png">
 

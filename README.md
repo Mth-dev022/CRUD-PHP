@@ -10,7 +10,6 @@
     
 <img width="350px" height="300px" src="img/todasTarefas.png">
 <img width="350px" height="300px" src="img/atualizar.png">
-<img width="350px" height="300px" src="img/pendentes.png">
 
 </p>
 

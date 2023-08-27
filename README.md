@@ -1,14 +1,15 @@
 # CRUD-PHP
-
-<img src="img/menu.png">
-
-<img src="img/sucesso.png">
-
-<img src="img/todasTarefas.png">
-
-<img src="img/atualizar.png">
-
-<img src="img/pendentes.png">
+<p align="center">
+    
+<img width="400px" height="400px" src="img/menu.png">
+<img width="400px" height="400px" src="img/sucesso.png">
+</p>
+<p align="center">
+    
+<img width="400px" height="400px" src="img/todasTarefas.png">
+<img width="400px" height="400px" src="img/atualizar.png">
+<img width="400px" height="400px" src="img/pendentes.png">
+</p>
 
 #  📝 Descrição do projeto
 
